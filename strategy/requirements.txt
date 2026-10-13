@@ -1,0 +1,10 @@
+# Python 3.12+ is required by current pandas-ta releases.
+pandas
+numpy
+pandas-ta
+smartapi-python
+pyotp
+logzero
+python-dotenv
+websocket-client
+pycryptodome
